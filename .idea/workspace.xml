@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a96f7520-adf1-4019-81b6-a384805888e3" name="Default Changelist" comment="Update" />
+    <list default="true" id="a96f7520-adf1-4019-81b6-a384805888e3" name="Default Changelist" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +142,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git static.park" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -179,6 +182,7 @@
       <workItem from="1572414286295" duration="2970000" />
       <workItem from="1572498168250" duration="4030000" />
       <workItem from="1572588928629" duration="2467000" />
+      <workItem from="1572934140943" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1572590458374</created>
